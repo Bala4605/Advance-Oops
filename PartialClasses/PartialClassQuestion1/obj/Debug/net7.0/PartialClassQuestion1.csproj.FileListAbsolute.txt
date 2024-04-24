@@ -1,0 +1,15 @@
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\PartialClasses\PartialClassQuestion1\bin\Debug\net7.0\PartialClassQuestion1.exe
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\PartialClasses\PartialClassQuestion1\bin\Debug\net7.0\PartialClassQuestion1.deps.json
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\PartialClasses\PartialClassQuestion1\bin\Debug\net7.0\PartialClassQuestion1.runtimeconfig.json
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\PartialClasses\PartialClassQuestion1\bin\Debug\net7.0\PartialClassQuestion1.dll
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\PartialClasses\PartialClassQuestion1\bin\Debug\net7.0\PartialClassQuestion1.pdb
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\PartialClasses\PartialClassQuestion1\obj\Debug\net7.0\PartialClassQuestion1.csproj.AssemblyReference.cache
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\PartialClasses\PartialClassQuestion1\obj\Debug\net7.0\PartialClassQuestion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\PartialClasses\PartialClassQuestion1\obj\Debug\net7.0\PartialClassQuestion1.AssemblyInfoInputs.cache
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\PartialClasses\PartialClassQuestion1\obj\Debug\net7.0\PartialClassQuestion1.AssemblyInfo.cs
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\PartialClasses\PartialClassQuestion1\obj\Debug\net7.0\PartialClassQuestion1.csproj.CoreCompileInputs.cache
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\PartialClasses\PartialClassQuestion1\obj\Debug\net7.0\PartialClassQuestion1.dll
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\PartialClasses\PartialClassQuestion1\obj\Debug\net7.0\refint\PartialClassQuestion1.dll
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\PartialClasses\PartialClassQuestion1\obj\Debug\net7.0\PartialClassQuestion1.pdb
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\PartialClasses\PartialClassQuestion1\obj\Debug\net7.0\PartialClassQuestion1.genruntimeconfig.cache
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\PartialClasses\PartialClassQuestion1\obj\Debug\net7.0\ref\PartialClassQuestion1.dll

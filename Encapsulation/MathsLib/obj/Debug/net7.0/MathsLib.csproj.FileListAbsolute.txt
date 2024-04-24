@@ -1,0 +1,12 @@
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\Encapsulation\MathsLib\bin\Debug\net7.0\MathsLib.deps.json
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\Encapsulation\MathsLib\bin\Debug\net7.0\MathsLib.dll
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\Encapsulation\MathsLib\bin\Debug\net7.0\MathsLib.pdb
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\Encapsulation\MathsLib\obj\Debug\net7.0\MathsLib.csproj.AssemblyReference.cache
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\Encapsulation\MathsLib\obj\Debug\net7.0\MathsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\Encapsulation\MathsLib\obj\Debug\net7.0\MathsLib.AssemblyInfoInputs.cache
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\Encapsulation\MathsLib\obj\Debug\net7.0\MathsLib.AssemblyInfo.cs
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\Encapsulation\MathsLib\obj\Debug\net7.0\MathsLib.csproj.CoreCompileInputs.cache
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\Encapsulation\MathsLib\obj\Debug\net7.0\MathsLib.dll
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\Encapsulation\MathsLib\obj\Debug\net7.0\refint\MathsLib.dll
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\Encapsulation\MathsLib\obj\Debug\net7.0\MathsLib.pdb
+C:\Users\BalaBaskar\OneDrive - Syncfusion\Desktop\AdvanceOops\Encapsulation\MathsLib\obj\Debug\net7.0\ref\MathsLib.dll
